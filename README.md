@@ -1,5 +1,5 @@
 # Dio
-esafio: Orquestração de Workflows com AWS Step Functions (DIO)
+Desafio: Orquestração de Workflows com AWS Step Functions (DIO)
 
 Este projeto documenta a implementação de um fluxo de trabalho (workflow) serverless na AWS, utilizando o Step Functions para orquestrar a execução sequencial de três funções AWS Lambda.
 
